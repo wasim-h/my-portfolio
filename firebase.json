@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "wasim",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
